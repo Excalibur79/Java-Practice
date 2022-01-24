@@ -1,5 +1,6 @@
 abstract class Human{
     abstract public void walk();
+  
     public void talk(){
         System.out.println("i am speaking!");
     }
@@ -9,6 +10,7 @@ abstract class Human{
 }
 
 class Man extends Human{
+   
     public void walk(){
         System.out.println("Man is walking!");
     }
