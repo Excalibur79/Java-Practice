@@ -12,6 +12,7 @@ public class StackDemo {
         st.push("leopard");
         System.out.println(st.peek());
         st.pop();
+        
         System.out.println(st);
     }
 }
