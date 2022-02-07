@@ -1,7 +1,7 @@
 package PackagePractice.Student;
 public class Student{
     private String name;
-    int year;
+   protected int year;
     public Student(String name,int year){
         this.name=name;
         this.year=year;

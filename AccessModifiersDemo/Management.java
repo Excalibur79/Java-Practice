@@ -34,6 +34,7 @@ public class Management{
         Teacher teacher = new Teacher("Elliot");
         X obj = new X();
         System.out.println("hola ss "+obj.getX()+" y is"+obj.getY());
+        Long x = 10l;
         // int yy;
         // System.out.println("yy is:"+yy);
 

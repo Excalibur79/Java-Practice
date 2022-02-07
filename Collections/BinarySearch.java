@@ -13,7 +13,7 @@ public class BinarySearch {
         // Collections.sort(arr);
         System.out.println(set);
         int value=0;
-        System.out.println(value+" is present in index : "+Collections.binarySearch(set, value));
+      
         
     }
 }
